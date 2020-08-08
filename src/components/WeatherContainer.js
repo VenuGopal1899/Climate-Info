@@ -22,7 +22,7 @@ class WeatherContainer extends Component{
     }
 
     componentDidMount = () =>{
-        const weatherUrl = `http://api.openweathermap.org/data/2.5/forecast?zip=11102&units=imperial&APPID=${apiConfig.owmKey}`
+        const weatherUrl = `https://api.openweathermap.org/data/2.5/forecast?zip=11102&units=imperial&APPID=${apiConfig.owmKey}`
         axios.get(weatherUrl)
             .then(res => {
                 const dailyData = res.data.list.filter(reading => {return reading.dt_txt.includes("06:00:00")})
