@@ -30,7 +30,8 @@ class WeatherContainer extends Component{
                     fullData: res.data.list,
                     dailyData: dailyData
                 })
-            })
+            }
+        )
     }
 
     render(){
