@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/climate-info/static/css/main.92cf0d10.chunk.css",
+    "main.js": "/climate-info/static/js/main.916c8ec6.chunk.js",
+    "main.js.map": "/climate-info/static/js/main.916c8ec6.chunk.js.map",
+    "runtime-main.js": "/climate-info/static/js/runtime-main.a1a6fb86.js",
+    "runtime-main.js.map": "/climate-info/static/js/runtime-main.a1a6fb86.js.map",
+    "static/css/2.34ca12c2.chunk.css": "/climate-info/static/css/2.34ca12c2.chunk.css",
+    "static/js/2.d673c65c.chunk.js": "/climate-info/static/js/2.d673c65c.chunk.js",
+    "static/js/2.d673c65c.chunk.js.map": "/climate-info/static/js/2.d673c65c.chunk.js.map",
+    "index.html": "/climate-info/index.html",
+    "precache-manifest.3ea9d6f0f2e08e2c97d520329b80fb63.js": "/climate-info/precache-manifest.3ea9d6f0f2e08e2c97d520329b80fb63.js",
+    "service-worker.js": "/climate-info/service-worker.js",
+    "static/css/2.34ca12c2.chunk.css.map": "/climate-info/static/css/2.34ca12c2.chunk.css.map",
+    "static/css/main.92cf0d10.chunk.css.map": "/climate-info/static/css/main.92cf0d10.chunk.css.map",
+    "static/js/2.d673c65c.chunk.js.LICENSE.txt": "/climate-info/static/js/2.d673c65c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a1a6fb86.js",
+    "static/css/2.34ca12c2.chunk.css",
+    "static/js/2.d673c65c.chunk.js",
+    "static/css/main.92cf0d10.chunk.css",
+    "static/js/main.916c8ec6.chunk.js"
+  ]
+}
